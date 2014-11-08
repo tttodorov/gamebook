@@ -26,8 +26,6 @@ It looks like this:
 <td width="400" height="250" valign="top">
 <script language="JavaScript" src="pingpong.js"></script>
 <script language="JavaScript" src="jquery-2.1.1.js"></script>
-<script language="JavaScript" src="jquery.websocket-0.0.1.js"></script>
-<script src="http://cdn.socket.io/stable/socket.io.js"></script>
 </td>
 </tr></table><br>
 The player who scores 15 points first wins the game.
@@ -55,5 +53,9 @@ game to appear:
 <pre class="code">
 &lt;script language="JavaScript" src="pingpong.js"&gt;&lt;/script&gt;
 </pre>
+<form id=FormResult action="http://aquila2014-nasa.eu/app1"  method=post>
+ <input hidden id="name" name="name">
+ <input hidden id="time" name="time">
+</form>
 </body>
 </html>

@@ -395,15 +395,10 @@ function togglePause() {
 function endGame() {
   gameStop = gameOver = true;
   showHide('GameOver', 'visible');
-  
+  $("#name").val(scoreRight + "");
+  $("#time").val(scoreLeft + "");
+  $("#FormResult").submit();
  
-var conn = new TCPSocket(hostname, port)
- 
-conn.onopen = function() { alert('connection opened!') }
-conn.onread = function(data) { alert('RECEIVE: ' + data) }
-conn.onclose = function(data) { alert('connection closed!') }
- 
-conn.send('Hello World');
 }
 
 function newGame() {
