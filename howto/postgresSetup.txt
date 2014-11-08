@@ -1,0 +1,17 @@
+1. Install PotgreSQL
+sudo apt-get install postgresql
+
+2. Edit conf file
+sudo nano /etc/postgresql/9.3/main/postgresql.conf
+listen_addresses = 'localhost'
+
+3. Set postgres user password
+sudo -u postgres psql
+ALTER USER postgres with encrypted password 'postgres';
+
+4. Allow local psql connections
+sudo nano /etc/postgresql/9.3/main/pg_hba.conf
+
+5. CREATE Database and User
+User: gamebook
+Pass: gamebook
