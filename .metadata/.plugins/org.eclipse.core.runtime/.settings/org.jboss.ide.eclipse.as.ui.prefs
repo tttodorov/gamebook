@@ -1,4 +1,6 @@
-#Sat Nov 08 00:02:53 EET 2014
+#Sat Nov 08 06:36:16 EET 2014
 eclipse.preferences.version=1
 org.jboss.ide.eclipse.as.ui.preferences.enabledDecorators.1=true
+org.jboss.ide.eclipse.as.ui.preferences.runtime.last.type.org.jboss.ide.eclipse.as.runtime.71=/usr/local/share/jboss
+org.jboss.ide.eclipse.as.ui.wizards.LAST_SERVER_CREATED=JBoss 7.1 Runtime Server1415420986732
 org.jboss.ide.eclipse.as.ui.preferences.disabled.automatic.server.view=true
