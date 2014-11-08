@@ -760,3 +760,348 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp
 
 !ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-11-08 13:13:01.905
 !MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-11-08 13:45:33.567
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-11-08 13:45:51.176
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-11-08 13:51:44.703
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-11-08 13:51:44.723
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-11-08 13:51:44.725
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-11-08 13:52:31.056
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-11-08 13:52:49.039
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-11-08 13:53:38.908
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-11-08 13:53:38.935
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-11-08 13:53:38.937
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 13:54:17.703
+!MESSAGE Module CrudEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 13:54:17.741
+!MESSAGE Module CrudEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 13:54:17.777
+!MESSAGE Module CrudJSF published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-11-08 13:55:16.795
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-11-08 13:55:42.532
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 13:59:34.224
+!MESSAGE 1 files modified in module CrudEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 14:00:56.905
+!MESSAGE 1 files modified in module CrudEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 14:01:25.946
+!MESSAGE 1 files modified in module CrudEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2014-11-08 14:01:30.737
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-11-08 14:01:31.501
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-11-08 14:01:31.533
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-11-08 14:01:31.535
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 14:01:38.356
+!MESSAGE Module CrudEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 14:01:38.399
+!MESSAGE Module CrudEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 14:01:38.433
+!MESSAGE Module CrudJSF published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-11-08 14:01:49.671
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-11-08 14:02:06.921
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 14:07:17.156
+!MESSAGE 1 files modified in module CrudEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-11-08 14:08:23.285
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-11-08 14:08:23.309
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-11-08 14:08:23.313
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 14:08:30.515
+!MESSAGE Module CrudEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 14:08:30.547
+!MESSAGE Module CrudEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 14:08:30.570
+!MESSAGE Module CrudJSF published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-11-08 14:09:20.267
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-11-08 14:09:43.843
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2014-11-08 14:10:02.470
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-11-08 14:10:03.346
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-11-08 14:10:03.402
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-11-08 14:10:03.404
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 14:10:21.609
+!MESSAGE Module CrudEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 14:10:21.631
+!MESSAGE Module CrudEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 14:10:21.656
+!MESSAGE Module CrudJSF published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-11-08 14:10:32.280
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-11-08 14:10:50.052
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 14:13:29.629
+!MESSAGE 1 files modified in module CrudEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 14:13:33.260
+!MESSAGE 1 files modified in module CrudEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 14:13:45.213
+!MESSAGE 1 files modified in module CrudEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 14:14:20.334
+!MESSAGE 1 files modified in module CrudEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 14:15:23.742
+!MESSAGE 1 files modified in module CrudEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-11-08 14:15:25.060
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-11-08 14:15:25.082
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-11-08 14:15:25.084
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 14:15:31.884
+!MESSAGE Module CrudEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 14:15:31.904
+!MESSAGE Module CrudEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 14:15:31.924
+!MESSAGE Module CrudJSF published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-11-08 14:15:51.058
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-11-08 14:16:02.338
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-11-08 14:16:27.090
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-11-08 14:16:27.115
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-11-08 14:16:27.119
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 14:17:29.555
+!MESSAGE Module CrudEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 14:17:29.577
+!MESSAGE Module CrudEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 14:17:29.609
+!MESSAGE Module CrudJSF published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-11-08 14:18:03.071
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-11-08 14:18:20.230
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2014-11-08 14:26:21.358
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-11-08 14:26:22.446
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-11-08 14:26:22.486
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-11-08 14:26:22.489
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 14:30:18.003
+!MESSAGE 1 files modified in module CrudEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-11-08 14:30:23.385
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-11-08 14:30:47.770
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-11-08 14:31:38.848
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-11-08 14:31:38.893
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-11-08 14:31:38.901
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 14:33:06.725
+!MESSAGE Module CrudEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 14:33:06.745
+!MESSAGE Module CrudEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 14:33:06.767
+!MESSAGE Module CrudJSF published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-11-08 14:33:16.976
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-11-08 14:33:34.358
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 14:34:30.297
+!MESSAGE 1 files modified in module CrudEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-11-08 14:34:30.611
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-11-08 14:34:30.647
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-11-08 14:34:30.649
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 14:34:42.477
+!MESSAGE Module CrudEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 14:34:42.499
+!MESSAGE Module CrudEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 14:34:42.531
+!MESSAGE Module CrudJSF published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-11-08 14:34:58.993
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-11-08 14:35:23.479
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 14:37:12.212
+!MESSAGE 1 files modified in module CrudEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2014-11-08 14:41:56.933
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-11-08 14:41:59.041
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-11-08 14:41:59.085
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-11-08 14:41:59.088
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-11-08 14:42:12.400
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-11-08 14:42:31.158
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 14:48:19.281
+!MESSAGE 1 files modified in module CrudJSF
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 14:48:28.974
+!MESSAGE 1 files modified in module CrudJSF
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 14:49:40.754
+!MESSAGE 1 files modified in module CrudJSF
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 14:49:55.536
+!MESSAGE 1 files modified in module CrudJSF
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2014-11-08 14:50:02.063
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-11-08 14:50:04.073
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-11-08 14:50:04.078
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2014-11-08 14:50:04.099
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 14:50:17.181
+!MESSAGE Module CrudEAR published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 14:50:17.201
+!MESSAGE Module CrudEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-11-08 14:50:17.218
+!MESSAGE Module CrudJSF published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-11-08 14:50:27.852
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-11-08 14:50:45.856
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-11-08 14:53:45.341
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-11-08 14:53:45.373
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-11-08 14:53:45.377
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-11-08 14:54:03.274
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-11-08 14:54:21.025
+!MESSAGE Server Startup Succeeded
