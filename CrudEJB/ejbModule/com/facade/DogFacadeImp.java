@@ -38,10 +38,10 @@ public class DogFacadeImp implements DogFacade {
         return dogDAO.find(entityID);
     }
  
-    @Override
-    public List<Dog> findAll() {
-        return dogDAO.findAll();
-    }
+//    @Override
+//    public List<Dog> findAll() {
+//        return dogDAO.findAll();
+//    }
  
     private void isDogWithAllData(Dog dog){
         boolean hasError = false;

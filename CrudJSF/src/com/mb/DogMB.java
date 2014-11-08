@@ -40,9 +40,9 @@ public class DogMB {
         this.dog = dog;
     }
  
-    public List<Dog> getAllDogs() {
-        return dogFacade.findAll();
-    }
+//    public List<Dog> getAllDogs() {
+//        return dogFacade.findAll();
+//    }
  
     public String updateDogStart(){
         return UPDATE_DOG;
