@@ -1,0 +1,33 @@
+Step One—Install Java:
+java -version
+apt-get update
+apt-get install openjdk-7-jdk
+
+Step Two—Install JBoss:
+wget http://download.jboss.org/jbossas/7.1/jboss-as-7.1.1.Final/jboss-as-7.1.1.Final.tar.gz
+tar xfvz jboss-as-7.1.1.Final.tar.gz
+mv jboss-as-7.1.1.Final /usr/local/share/jboss
+
+Step Three—Create a New User:
+adduser appserver
+#passwd appserver : appserver
+chown -R appserver /usr/local/share/jboss
+su appserver
+cd /usr/local/share/jboss/bin	
+./add-user.sh
+...
+What type of user do you wish to add? 
+ a) Management User (mgmt-users.properties) 
+ b) Application User (application-users.properties)
+(a): a
+
+Enter the details of the new user to add.
+Realm (ManagementRealm) :    
+Username : gamebook
+Password : gamebookSu
+Re-enter Password : gamebookSu
+...
+
+Step Four—Start the JBoss Server:
+./standalone.sh -Djboss.bind.address=localhost -Djboss.bind.address.management=localhost&
+./jboss-cli.sh --connect --controller=localhost:9999 command=:shutdown

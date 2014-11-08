@@ -1,4 +1,4 @@
-suGame
+GameBook
 ======
 
-SU Game Server
+Facebook for Gamers

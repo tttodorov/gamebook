@@ -1,0 +1,51 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.wst.common.frameworks,1.2.102.v201201190400,"org.eclipse.wst.common.frameworks",1415418758063
+started,bundle,org.eclipse.wst.common.project.facet.core,1.4.201.v201201101553,"org.eclipse.wst.common.project.facet.core",1415418758063
+started,bundle,org.eclipse.wst.server.core,1.1.304.v20120208_1420,"org.eclipse.wst.server.core",1415418758063
+started,bundle,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.ui",1415418758063
+started,bundle,org.eclipse.wst.web,1.1.501.v201201190400,"org.eclipse.wst.web",1415418758063
+started,bundle,org.jboss.ide.eclipse.as.core,2.3.2.v20130112-0201-H153-Final,"org.jboss.ide.eclipse.as.core",1415418758063
+started,bundle,org.jboss.ide.eclipse.as.ui,2.3.2.v20130112-0201-H153-Final,"org.jboss.ide.eclipse.as.ui",1415418758063
+started,bundle,org.jboss.tools.central,1.0.1.v20130112-0624-H128-Final,"org.jboss.tools.central",1415418758063
+started,bundle,org.jboss.tools.common,3.3.1.v20130102-1651-H83-Final,"org.jboss.tools.common",1415418758063
+started,bundle,org.jboss.tools.common.model,3.3.1.v20130102-1651-H83-Final,"org.jboss.tools.common.model",1415418758063
+started,bundle,org.jboss.tools.common.validation,3.3.1.v20130102-1651-H83-Final,"org.jboss.tools.common.validation",1415418758063
+started,bundle,org.jboss.tools.forge.core,1.0.1.v20130102-1755-H101-Final,"org.jboss.tools.forge.core",1415418758063
+started,bundle,org.jboss.tools.forge.ui,1.0.1.v20130102-1755-H101-Final,"org.jboss.tools.forge.ui",1415418758063
+started,bundle,org.jboss.tools.maven.sourcelookup.core,1.3.2.v20130112-0608-H143-Final,"org.jboss.tools.maven.sourcelookup.core",1415418758063
+started,bundle,org.jboss.tools.maven.sourcelookup.ui,1.3.2.v20130112-0608-H143-Final,"org.jboss.tools.maven.sourcelookup.ui",1415418758063
+started,bundle,org.jboss.tools.project.examples,1.3.1.v20130112-0559-H131-Final,"org.jboss.tools.project.examples",1415418758063
+started,bundle,org.jboss.tools.runtime.ui,1.3.0.v20130112-0541-H121-Final,"org.jboss.tools.runtime.ui",1415418758063
+started,bundle,org.jboss.tools.seam.core,3.3.0.v20130112-0336-H148-Final,"org.jboss.tools.seam.core",1415418758063
+started,bundle,org.jboss.tools.seam.ui,3.3.0.v20130112-0336-H148-Final,"org.jboss.tools.seam.ui",1415418758063
+started,bundle,org.jboss.tools.usage,1.1.0.v20130102-1715-H74-Final,"org.jboss.tools.usage",1415418758064
+os,sysinfo,,,"linux",1415418758071
+arch,sysinfo,,,"x86_64",1415418758071
+ws,sysinfo,,,"gtk",1415418758071
+locale,sysinfo,,,"en_US",1415418758071
+processors,sysinfo,,,"2",1415418758071
+java.runtime.name,sysinfo,,,"OpenJDK Runtime Environment",1415418758071
+java.runtime.version,sysinfo,,,"1.7.0_65-b32",1415418758071
+java.specification.name,sysinfo,,,"Java Platform API Specification",1415418758071
+java.specification.vendor,sysinfo,,,"Oracle Corporation",1415418758071
+java.specification.version,sysinfo,,,"1.7",1415418758071
+java.vendor,sysinfo,,,"Oracle Corporation",1415418758071
+java.version,sysinfo,,,"1.7.0_65",1415418758071
+java.vm.info,sysinfo,,,"mixed mode",1415418758071
+java.vm.name,sysinfo,,,"OpenJDK 64-Bit Server VM",1415418758071
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1415418758071
+java.vm.specification.vendor,sysinfo,,,"Oracle Corporation",1415418758071
+java.vm.specification.version,sysinfo,,,"1.7",1415418758071
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1415418758071
+java.vm.version,sysinfo,,,"24.65-b04",1415418758071
+started,bundle,org.eclipse.m2e.usagedata,1.0.200.20111228-1245,"org.eclipse.m2e.usagedata",1415418758075
+started,bundle,org.jboss.tools.runtime.core,1.3.0.v20130112-0541-H121-Final,"org.jboss.tools.runtime.core",1415418758296
+started,bundle,org.eclipse.ecf.filetransfer,5.0.0.v20110531-2218,"org.eclipse.ecf.filetransfer",1415418759414
+started,bundle,org.eclipse.ecf,3.1.300.v20110531-2218,"org.eclipse.ecf",1415418759454
+started,bundle,org.eclipse.ecf.identity,3.1.100.v20110531-2218,"org.eclipse.ecf.identity",1415418759543
+started,bundle,org.eclipse.ecf.provider.filetransfer.httpclient,4.0.0.v20110531-2218,"org.eclipse.ecf.provider.filetransfer.httpclient",1415418759663
+started,bundle,org.eclipse.ecf.provider.filetransfer,3.2.0.v20110531-2218,"org.eclipse.ecf.provider.filetransfer",1415418759676
+started,bundle,org.eclipse.equinox.p2.ui,2.1.0.v20110601,"org.eclipse.equinox.p2.ui",1415418760652
+started,bundle,org.eclipse.jst.common.project.facet.core,1.4.200.v201103170302,"org.eclipse.jst.common.project.facet.core",1415418760910
+started,bundle,org.eclipse.jst.ws.jaxrs.core,1.0.301.v201108240656,"org.eclipse.jst.ws.jaxrs.core",1415418760932
+started,bundle,org.jboss.tools.maven.project.examples,1.3.2.v20130112-0608-H143-Final,"org.jboss.tools.maven.project.examples",1415418764426
