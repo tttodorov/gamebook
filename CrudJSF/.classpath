@@ -14,5 +14,7 @@
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/CrudEJB"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/org.hibernate:com.springsource.org.hibernate.ejb:4.0.1.Final"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/javax.ejb:com.springsource.javax.ejb:3.0.0"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

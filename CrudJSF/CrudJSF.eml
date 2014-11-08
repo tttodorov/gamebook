@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="org.hibernate:com.springsource.org.hibernate.ejb:4.0.1.Final" value="project"/>
+		<level name="javax.ejb:com.springsource.javax.ejb:3.0.0" value="project"/>
+	</levels>
+</component>

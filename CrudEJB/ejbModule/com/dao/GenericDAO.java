@@ -1,39 +1,39 @@
 package com.dao;
 
-import java.util.Date;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
+import java.util.Date;
 
 public abstract class GenericDAO<T> {
 	private final static String UNIT_NAME = "CrudPU";
 
-	private final Date createdOn;
+	protected final Date createdOn;
 
 	@PersistenceContext(unitName = UNIT_NAME)
-	private EntityManager em;
-	private Class<T> entityClass;
-	private int id;
-	private int isActive;
-	private Date lastEditedOn;
+	protected EntityManager em;
+	protected Class<T> entityClass;
+	protected int id;
+	protected int isActive;
+	protected Date lastEditedOn;
 
-	public GenericDAO(Class<T> entityClass) {
+	protected GenericDAO(Class<T> entityClass) {
 		this.entityClass = entityClass;
 		this.createdOn = new Date();
 	}
 
-	public int getId() {
+	protected int getId() {
 		return id;
 	}
 
-	public void setId(int id) {
+	protected void setId(int id) {
 		this.id = id;
 	}
 
-	public int getIsActive() {
+	protected int getIsActive() {
 		return isActive;
 	}
 
-	public void setIsActive(int isActive) {
+	protected void setIsActive(int isActive) {
 		if (isActive == 0 || isActive == 1) {
 			this.isActive = isActive;
 		} else {
@@ -41,15 +41,15 @@ public abstract class GenericDAO<T> {
 		}
 	}
 
-	public Date getCreatedOn() {
+	protected Date getCreatedOn() {
 		return createdOn;
 	}
 
-	public Date getLastEditedOn() {
+	protected Date getLastEditedOn() {
 		return lastEditedOn;
 	}
 
-	public void setLastEditedOn(Date lastEditedOn) {
+	protected void setLastEditedOn(Date lastEditedOn) {
 		long lastEditionTime = this.lastEditedOn.getTime();
 		long newLastEditionTime = lastEditedOn.getTime();
 
@@ -64,18 +64,17 @@ public abstract class GenericDAO<T> {
 		em.persist(entity);
 	}
 
-	protected void delete(Object id, Class<T> classe) {
-		T entityToBeRemoved = em.getReference(classe, id);
-
-		em.remove(entityToBeRemoved);
-	}
-
 	public T update(T entity) {
 		return em.merge(entity);
 	}
 
 	public T find(int entityID) {
 		return em.find(entityClass, entityID);
+	}
+
+	public void delete(Object id, Class<T> classe) {
+		T entityToBeRemoved = em.getReference(classe, id);
+		setIsActive(0);
 	}
 
 	// // Using the unchecked because JPA does not have a

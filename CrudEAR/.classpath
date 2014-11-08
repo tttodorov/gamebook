@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/org.hibernate:com.springsource.org.hibernate.ejb:4.0.1.Final"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/javax.ejb:com.springsource.javax.ejb:3.0.0"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

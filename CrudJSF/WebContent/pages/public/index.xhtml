@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -7,9 +7,7 @@
     <meta name="author" content="">
 
     <title>GameBook</title>
-    <!-- Custom styles for this template -->
-    <link href="css/signin.css" rel="stylesheet">
-	<link href="css/style_admin.css" rel="stylesheet">
+
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">
 
@@ -18,9 +16,8 @@
     <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
   </head>
 
-
-
   <body>
+
     <div id="wrapper">
     <!-- Navigation -->
     <nav id="#header" class="navbar navbar-inverse navbar-fixed-top" role="navigation">
@@ -56,6 +53,9 @@
                     <li>
                         <a href="clubs.html">Clubs</a>
                     </li>
+					<li>
+                        <a href="login.html">Login/Sign Up</a>
+                    </li>
                 </ul>
 
             </div>
@@ -65,34 +65,99 @@
     </nav>
 	  </div>
 
+      <div id="page-wrapper">
+
+        <div class="row">
           <div class="col-lg-12 text-center"><br><br>
-		  <div class="row">
-		  <a href="index.html"><img src="img/logo_medium.png" class="logo" /></a>
+		  <a href="index.html"><img src="img/logo_medium.png" class="logo" /></a><br>
             <!--<h1><small>Добре дошли в GameBook.</small></h1>-->
            <!-- <div class="alert alert-info alert-dismissable">
               <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
 				Hi, my name is alert. You can close me any time you want.
 		   <!--Свободни места: <a class="alert-link" href="http://tablesorter.com/docs/"> 12</a><br>Резервирани места: <a class="alert-link" href="http://tablesorter.com/docs/"> 12</a>-->
             <!--</div>-->
-			</div>
           </div>
-        <!-- /.row -->
-    <div class="container">
-      <form class="form-signin" role="form">
-        <h2 class="form-signin-heading">Влезте в профила си</h2>
-        <input type="email" class="form-control" placeholder="Email" required autofocus>
-        <input type="password" class="form-control" placeholder="Парола" required>
-        <div class="checkbox">
-          <label>
-            <input type="checkbox" value="remember-me"> Запомни ме
-          </label>
-        </div>
-        <button class="btn btn-lg btn-primary btn-block" type="submit">Вход</button><br>
-		<p class="text-center"><a href="register.html">Нямате профил? Регистрирайте се. <i class="fa fa-external-link"></i></a></p>
-      </form>
-    </div> <!-- /container -->
-	<br><br><br><br><br><br><br><br><br><br>
-    <footer class="footer">
+        </div><!-- /.row -->
+		<br><br>
+		<div class="row">
+			<h2> Последно изиграни игри:</h2><br>
+			<div class="col-md-4">
+				<img src="img/8bit_ninja.jpg" class="imgBig"/>
+			</div>
+			<div class="col-md-4">
+				<img src="img/mortal-kombat.jpg" class="imgBig"/>
+			</div>
+			<div class="col-md-4">
+				<img src="img/tetris.jpg" class="imgBig"/>
+			</div>
+		</div><br><br>
+        <div class="row">
+		<h2> Резултати:</h2>
+          <div class="col-lg-4">
+            <div class="table-responsive">
+              <table class="table table-bordered table-hover table-striped tablesorter">
+                <thead>
+                  <tr>
+                    <th class="text-center"><i class="fa fa-star yellow"></i>  Players <i class="fa fa-sort"></i></th>
+                    <!--<th>Продължителност <i class="fa fa-sort"></i></th>-->
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td><img src="img/mega.png" valign="center" width="30"/>  Pussy_Slayer98 <i class="fa fa-star yellow"></i> <i class="fa fa-star yellow"></i> <i class="fa fa-star yellow"></i></td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+		<div class="col-lg-4">
+            <div class="table-responsive">
+              <table class="table table-bordered table-hover table-striped tablesorter">
+                <thead>
+                  <tr>
+                    <th class="text-center"><i class="fa fa-gamepad red"></i> Game <i class="fa fa-sort"></i></th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td><i class="fa fa-gamepad red"></i>  NFS Carbon</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+	    </div>
+		<div class="col-lg-4">
+            <div class="table-responsive">
+              <table class="table table-bordered table-hover table-striped tablesorter">
+                <thead>
+                  <tr>
+                    <th class="text-center"><i class="fa fa-trophy blue"></i> Клуб <i class="fa fa-sort"></i></th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td><i class="fa fa-trophy blue"></i> <i class="fa fa-trophy blue"></i> <i class="fa fa-trophy blue"></i> Gangbang</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+	    </div>
+        </div><!-- /.row --><br><br>
+		<div class="row">
+			<div class="col-md-2 col-sm-2 col-xs-2 left">
+				<img src="img/yoda.png" class="img" />
+			</div>
+			<div class="col-md-2 col-sm-2 col-xs-2 col-md-offset-3 col-xs-offset-3">
+				<img src="img/megaman.png" class="img" />
+			</div>
+			<div class="col-md-2 col-sm-2 col-xs-2 right">
+				<img src="img/mario.png" class="img" />
+			</div>
+		</div>
+		
+
+      </div><!-- /#page-wrapper --><br><br><br><br>
+    <footer>
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -103,14 +168,13 @@
         </div>
     </footer>
 
-    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
-	    <!-- JavaScript -->
+    <!-- JavaScript -->
     <script src="js/jquery-1.10.2.js"></script>
     <script src="js/bootstrap.js"></script>
 
     <!-- Page Specific Plugins -->
     <script src="js/tablesorter/jquery.tablesorter.js"></script>
     <script src="js/tablesorter/tables.js"></script>
+
   </body>
 </html>
