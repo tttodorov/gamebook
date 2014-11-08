@@ -1,0 +1,6 @@
+INDEX VERSION 1.122+/home/vladko/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2403223813.index
+1348815482.index
+2150596978.index
+3509949248.index
+3120063828.index

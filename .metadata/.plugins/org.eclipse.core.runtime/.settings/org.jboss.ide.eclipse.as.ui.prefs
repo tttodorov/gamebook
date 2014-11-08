@@ -1,4 +1,5 @@
-#Sat Nov 08 06:36:16 EET 2014
+#Sat Nov 08 11:42:22 EET 2014
+org.jboss.ide.eclipse.as.ui.defaultWebServer=JBoss 7.1 Runtime Server1415420986732
 eclipse.preferences.version=1
 org.jboss.ide.eclipse.as.ui.preferences.enabledDecorators.1=true
 org.jboss.ide.eclipse.as.ui.preferences.runtime.last.type.org.jboss.ide.eclipse.as.runtime.71=/usr/local/share/jboss

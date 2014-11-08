@@ -1,0 +1,5 @@
+package com.dao;
+
+public class DogDAO extends GenericDAO<T> {
+
+}

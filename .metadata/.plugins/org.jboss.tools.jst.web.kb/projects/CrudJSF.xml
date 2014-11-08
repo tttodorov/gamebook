@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects>
+  <project name="CrudEJB"/>
+ </depends-on-projects>
+ <used-by-projects/>
+ <paths>
+  <path value="/usr/local/share/jboss/modules/javax/transaction/api/main/jboss-transaction-api_1.1_spec-1.0.0.Final.jar"/>
+  <path value="/usr/local/share/jboss/modules/org/jboss/resteasy/resteasy-jaxb-provider/main/resteasy-jaxb-provider-2.3.2.Final-jandex.jar"/>
+  <path value="/usr/local/share/jboss/modules/javax/jms/api/main/jboss-jms-api_1.1_spec-1.0.0.Final.jar"/>
+  <path value="/usr/local/share/jboss/modules/javax/activation/api/main/activation-1.1.1.jar"/>
+  <path value="/usr/local/share/jboss/modules/javax/el/api/main/jboss-el-api_2.2_spec-1.0.0.Final.jar"/>
+  <path value="/usr/local/share/jboss/modules/javax/rmi/api/main/jboss-rmi-api_1.0_spec-1.0.4.Final.jar"/>
+  <path value="/usr/local/share/jboss/modules/org/jboss/resteasy/resteasy-multipart-provider/main/resteasy-multipart-provider-2.3.2.Final.jar"/>
+  <path value="/usr/local/share/jboss/modules/javax/faces/api/main/jboss-jsf-api_2.1_spec-2.0.1.Final.jar"/>
+  <path value="/usr/local/share/jboss/modules/javax/wsdl4j/api/main/wsdl4j-1.6.2.jar"/>
+  <path value="/usr/local/share/jboss/modules/org/jboss/resteasy/resteasy-jaxrs/main/async-http-servlet-3.0-2.3.2.Final-jandex.jar"/>
+  <path value="/usr/local/share/jboss/modules/javax/xml/registry/api/main/jboss-jaxr-api_1.0_spec-1.0.1.Final.jar"/>
+  <path value="/usr/local/share/jboss/modules/org/picketbox/main/picketbox-infinispan-4.0.7.Final.jar"/>
+  <path value="/usr/local/share/jboss/modules/org/picketbox/main/picketbox-commons-1.0.0.final.jar"/>
+  <path value="/usr/local/share/jboss/modules/org/hibernate/validator/main/hibernate-validator-4.2.0.Final.jar"/>
+  <path value="/usr/local/share/jboss/modules/javax/enterprise/api/main/cdi-api-1.0-SP4.jar"/>
+  <path value="/usr/local/share/jboss/modules/org/picketbox/main/picketbox-4.0.7.Final.jar"/>
+  <path value="/usr/local/share/jboss/modules/javax/servlet/jsp/api/main/jboss-jsp-api_2.2_spec-1.0.0.Final.jar"/>
+  <path value="/usr/local/share/jboss/modules/javax/validation/api/main/validation-api-1.0.0.GA.jar"/>
+  <path value="/usr/local/share/jboss/modules/javax/interceptor/api/main/jboss-interceptors-api_1.1_spec-1.0.0.Final.jar"/>
+  <path value="/usr/local/share/jboss/modules/javax/annotation/api/main/jboss-annotations-api_1.1_spec-1.0.0.Final.jar"/>
+  <path value="/usr/local/share/jboss/modules/javax/servlet/api/main/jboss-servlet-api_3.0_spec-1.0.0.Final.jar"/>
+  <path value="/usr/local/share/jboss/modules/javax/inject/api/main/javax.inject-1.jar"/>
+  <path value="/usr/local/share/jboss/modules/org/jboss/ejb3/main/jboss-ejb3-ext-api-2.0.0.jar"/>
+  <path value="/usr/local/share/jboss/modules/javax/ejb/api/main/jboss-ejb-api_3.1_spec-1.0.1.Final.jar"/>
+  <path value="/usr/local/share/jboss/modules/org/jboss/resteasy/resteasy-jaxrs/main/async-http-servlet-3.0-2.3.2.Final.jar"/>
+  <path value="/usr/local/share/jboss/modules/javax/resource/api/main/jboss-connector-api_1.6_spec-1.0.0.Final.jar"/>
+  <path value="/usr/local/share/jboss/modules/javax/security/auth/message/api/main/jboss-jaspi-api_1.0_spec-1.0.0.Final.jar"/>
+  <path value="/usr/local/share/jboss/modules/org/jboss/dmr/main/jboss-dmr-1.1.1.Final.jar"/>
+  <path value="/usr/local/share/jboss/modules/javax/xml/bind/api/main/jboss-jaxb-api_2.2_spec-1.0.3.Final.jar"/>
+  <path value="/usr/local/share/jboss/modules/javax/mail/api/main/mail-1.4.4.jar"/>
+  <path value="/usr/local/share/jboss/modules/javax/management/j2ee/api/main/jboss-j2eemgmt-api_1.1_spec-1.0.0.Final.jar"/>
+  <path value="/usr/local/share/jboss/modules/org/jboss/logging/main/jboss-logging-3.1.0.GA.jar"/>
+  <path value="/usr/local/share/jboss/modules/org/jboss/as/controller-client/main/jboss-as-controller-client-7.1.1.Final.jar"/>
+  <path value="/usr/local/share/jboss/modules/javax/security/jacc/api/main/jboss-jacc-api_1.4_spec-1.0.1.Final.jar"/>
+  <path value="/usr/local/share/jboss/modules/javax/xml/ws/api/main/jboss-jaxws-api_2.2_spec-2.0.0.Final.jar"/>
+  <path value="/usr/local/share/jboss/modules/javax/enterprise/deploy/api/main/jboss-jad-api_1.2_spec-1.0.0.Final.jar"/>
+  <path value="/usr/local/share/jboss/modules/javax/ws/rs/api/main/jboss-jaxrs-api_1.1_spec-1.0.0.Final.jar"/>
+  <path value="/usr/local/share/jboss/modules/org/jboss/resteasy/resteasy-jaxrs/main/resteasy-jaxrs-2.3.2.Final.jar"/>
+  <path value="/CrudJSF/WebContent/WEB-INF/faces-config.xml">
+   <libraries>
+    <library class="faces-config">
+     <id class="model-object"
+      path="FileSystems/WEB-INF/faces-config.xml" project="CrudJSF"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="/usr/local/share/jboss/modules/javax/jws/api/main/jsr181-api-1.0-MR1.jar"/>
+  <path value="/usr/local/share/jboss/modules/javax/persistence/api/main/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+  <path value="/usr/local/share/jboss/modules/javax/xml/soap/api/main/jboss-saaj-api_1.3_spec-1.0.1.Final.jar"/>
+  <path value="/usr/local/share/jboss/modules/org/jboss/resteasy/resteasy-jaxrs/main/resteasy-jaxrs-2.3.2.Final-jandex.jar"/>
+  <path value="/usr/local/share/jboss/modules/javax/xml/rpc/api/main/jboss-jaxrpc-api_1.1_spec-1.0.0.Final.jar"/>
+  <path value="/usr/local/share/jboss/modules/javax/servlet/jstl/api/main/jboss-jstl-api_1.2_spec-1.0.2.Final.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jboss-jstl-api_1.2_spec-1.0.2.Final.jar/META-INF/c-1_0-rt.tld" project="CrudJSF"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jboss-jstl-api_1.2_spec-1.0.2.Final.jar/META-INF/c-1_0.tld" project="CrudJSF"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jboss-jstl-api_1.2_spec-1.0.2.Final.jar/META-INF/c.tld" project="CrudJSF"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jboss-jstl-api_1.2_spec-1.0.2.Final.jar/META-INF/fmt-1_0-rt.tld" project="CrudJSF"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jboss-jstl-api_1.2_spec-1.0.2.Final.jar/META-INF/fmt-1_0.tld" project="CrudJSF"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jboss-jstl-api_1.2_spec-1.0.2.Final.jar/META-INF/fmt.tld" project="CrudJSF"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jboss-jstl-api_1.2_spec-1.0.2.Final.jar/META-INF/fn.tld" project="CrudJSF"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jboss-jstl-api_1.2_spec-1.0.2.Final.jar/META-INF/permittedTaglibs.tld" project="CrudJSF"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jboss-jstl-api_1.2_spec-1.0.2.Final.jar/META-INF/scriptfree.tld" project="CrudJSF"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jboss-jstl-api_1.2_spec-1.0.2.Final.jar/META-INF/sql-1_0-rt.tld" project="CrudJSF"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jboss-jstl-api_1.2_spec-1.0.2.Final.jar/META-INF/sql-1_0.tld" project="CrudJSF"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jboss-jstl-api_1.2_spec-1.0.2.Final.jar/META-INF/sql.tld" project="CrudJSF"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jboss-jstl-api_1.2_spec-1.0.2.Final.jar/META-INF/x-1_0-rt.tld" project="CrudJSF"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jboss-jstl-api_1.2_spec-1.0.2.Final.jar/META-INF/x-1_0.tld" project="CrudJSF"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jboss-jstl-api_1.2_spec-1.0.2.Final.jar/META-INF/x.tld" project="CrudJSF"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="/usr/local/share/jboss/modules/org/jboss/resteasy/resteasy-jaxb-provider/main/resteasy-jaxb-provider-2.3.2.Final.jar"/>
+  <path value="/usr/local/share/jboss/modules/org/jboss/resteasy/resteasy-multipart-provider/main/resteasy-multipart-provider-2.3.2.Final-jandex.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jsf-verification">
+   <linked-resource declaration="true" name="%0" path="%1;"/>
+   <linked-resource declaration="true" name="%2" path="%1;"/>
+   <linked-resource declaration="true" name="%3" path="%1;"/>
+   <linked-resource declaration="true" name="%4" path="%1;"/>
+   <linked-resource declaration="true" name="%5" path="%1;"/>
+   <linked-resource declaration="true" name="%6" path="%1;"/>
+   <linked-resource declaration="true" name="%7" path="%1;"/>
+   <linked-resource declaration="true" name="%8" path="%1;"/>
+  </core>
+  <core validator-id="jboss.jsf.core"/>
+  <el>
+   <linked-el length="26" name="%9" offset="729" path="%5"/>
+   <linked-el length="26" name="%9" offset="798" path="%0"/>
+   <linked-el length="20" name="%10" offset="809" path="%5"/>
+   <linked-el length="20" name="%10" offset="878" path="%0"/>
+   <linked-el length="55" name="%10" offset="949" path="%2"/>
+   <linked-el length="43" name="%11" offset="412" path="%2"/>
+   <linked-el length="31" name="%12" offset="386" path="%13"/>
+   <linked-el length="43" name="%14" offset="436" path="%3"/>
+   <linked-el length="17" name="%15" offset="1237" path="%5"/>
+   <linked-el length="17" name="%15" offset="724" path="%3"/>
+   <linked-el length="17" name="%15" offset="1306" path="%0"/>
+   <linked-el length="29" name="%16" offset="2018" path="%2"/>
+   <linked-el length="17" name="%17" offset="1362" path="%2"/>
+   <linked-el length="17" name="%17" offset="1219" path="%0"/>
+   <linked-el length="17" name="%18" offset="504" path="%2"/>
+   <linked-el length="42" name="%19" offset="436" path="%0"/>
+   <linked-el length="28" name="%19" offset="1328" path="%2"/>
+   <linked-el length="20" name="%19" offset="746" path="%0"/>
+   <linked-el length="15" name="%19" offset="1472" path="%2"/>
+   <linked-el length="22" name="%19" offset="947" path="%0"/>
+   <linked-el length="26" name="%19" offset="1187" path="%0"/>
+   <linked-el length="43" name="%19" offset="436" path="%3"/>
+   <linked-el length="28" name="%19" offset="1588" path="%2"/>
+   <linked-el length="26" name="%19" offset="1118" path="%5"/>
+   <linked-el length="25" name="%19" offset="1206" path="%5"/>
+   <linked-el length="22" name="%19" offset="878" path="%5"/>
+   <linked-el length="25" name="%19" offset="1275" path="%0"/>
+   <linked-el length="18" name="%19" offset="513" path="%0"/>
+   <linked-el length="26" name="%19" offset="605" path="%3"/>
+   <linked-el length="20" name="%19" offset="677" path="%5"/>
+   <linked-el length="25" name="%19" offset="693" path="%3"/>
+   <linked-el length="15" name="%19" offset="1732" path="%2"/>
+   <linked-el length="19" name="%19" offset="582" path="%2"/>
+   <linked-el length="18" name="%19" offset="514" path="%3"/>
+   <linked-el length="18" name="%20" offset="612" path="%5"/>
+   <linked-el length="53" name="%20" offset="769" path="%2"/>
+   <linked-el length="18" name="%20" offset="681" path="%0"/>
+   <linked-el length="17" name="%21" offset="1150" path="%5"/>
+   <linked-el length="29" name="%21" offset="2018" path="%2"/>
+   <linked-el length="42" name="%22" offset="436" path="%0"/>
+   <linked-el length="23" name="%22" offset="436" path="%5"/>
+   <linked-el length="17" name="%22" offset="1362" path="%2"/>
+   <linked-el length="26" name="%22" offset="798" path="%0"/>
+   <linked-el length="43" name="%22" offset="436" path="%3"/>
+   <linked-el length="20" name="%22" offset="809" path="%5"/>
+   <linked-el length="17" name="%22" offset="1237" path="%5"/>
+   <linked-el length="28" name="%22" offset="1001" path="%0"/>
+   <linked-el length="43" name="%22" offset="412" path="%2"/>
+   <linked-el length="20" name="%22" offset="878" path="%0"/>
+   <linked-el length="17" name="%22" offset="724" path="%3"/>
+   <linked-el length="29" name="%22" offset="2018" path="%2"/>
+   <linked-el length="28" name="%22" offset="932" path="%5"/>
+   <linked-el length="26" name="%22" offset="729" path="%5"/>
+   <linked-el length="31" name="%22" offset="386" path="%13"/>
+   <linked-el length="17" name="%22" offset="1306" path="%0"/>
+   <linked-el length="53" name="%22" offset="769" path="%2"/>
+   <linked-el length="18" name="%22" offset="681" path="%0"/>
+   <linked-el length="17" name="%22" offset="1219" path="%0"/>
+   <linked-el length="17" name="%22" offset="1622" path="%2"/>
+   <linked-el length="17" name="%22" offset="1150" path="%5"/>
+   <linked-el length="17" name="%22" offset="504" path="%2"/>
+   <linked-el length="55" name="%22" offset="949" path="%2"/>
+   <linked-el length="17" name="%22" offset="637" path="%3"/>
+   <linked-el length="18" name="%22" offset="612" path="%5"/>
+   <linked-el length="43" name="%23" offset="412" path="%2"/>
+   <linked-el length="42" name="%24" offset="436" path="%0"/>
+   <linked-el length="22" name="%24" offset="878" path="%5"/>
+   <linked-el length="18" name="%24" offset="513" path="%0"/>
+   <linked-el length="20" name="%24" offset="677" path="%5"/>
+   <linked-el length="43" name="%24" offset="832" path="%2"/>
+   <linked-el length="20" name="%24" offset="746" path="%0"/>
+   <linked-el length="12" name="%24" offset="1267" path="%2"/>
+   <linked-el length="45" name="%24" offset="1014" path="%2"/>
+   <linked-el length="22" name="%24" offset="947" path="%0"/>
+   <linked-el length="43" name="%24" offset="436" path="%3"/>
+   <linked-el length="18" name="%24" offset="514" path="%3"/>
+   <linked-el length="23" name="%25" offset="436" path="%5"/>
+   <linked-el length="17" name="%26" offset="1622" path="%2"/>
+   <linked-el length="17" name="%26" offset="637" path="%3"/>
+   <linked-el length="22" name="%27" offset="1648" path="%2"/>
+   <linked-el length="22" name="%27" offset="1388" path="%2"/>
+   <linked-el length="43" name="%28" offset="412" path="%2"/>
+   <linked-el length="42" name="%29" offset="436" path="%0"/>
+   <linked-el length="42" name="%30" offset="436" path="%0"/>
+   <linked-el length="28" name="%30" offset="1328" path="%2"/>
+   <linked-el length="43" name="%30" offset="832" path="%2"/>
+   <linked-el length="20" name="%30" offset="746" path="%0"/>
+   <linked-el length="12" name="%30" offset="1267" path="%2"/>
+   <linked-el length="15" name="%30" offset="1472" path="%2"/>
+   <linked-el length="22" name="%30" offset="947" path="%0"/>
+   <linked-el length="26" name="%30" offset="1187" path="%0"/>
+   <linked-el length="43" name="%30" offset="436" path="%3"/>
+   <linked-el length="25" name="%30" offset="1206" path="%5"/>
+   <linked-el length="26" name="%30" offset="1118" path="%5"/>
+   <linked-el length="28" name="%30" offset="1588" path="%2"/>
+   <linked-el length="9" name="%30" offset="1753" path="%2"/>
+   <linked-el length="22" name="%30" offset="878" path="%5"/>
+   <linked-el length="25" name="%30" offset="1275" path="%0"/>
+   <linked-el length="18" name="%30" offset="513" path="%0"/>
+   <linked-el length="26" name="%30" offset="605" path="%3"/>
+   <linked-el length="20" name="%30" offset="677" path="%5"/>
+   <linked-el length="25" name="%30" offset="693" path="%3"/>
+   <linked-el length="45" name="%30" offset="1014" path="%2"/>
+   <linked-el length="9" name="%30" offset="1493" path="%2"/>
+   <linked-el length="15" name="%30" offset="1732" path="%2"/>
+   <linked-el length="19" name="%30" offset="582" path="%2"/>
+   <linked-el length="18" name="%30" offset="514" path="%3"/>
+   <linked-el length="22" name="%31" offset="1648" path="%2"/>
+   <linked-el length="43" name="%31" offset="412" path="%2"/>
+   <linked-el length="22" name="%31" offset="1388" path="%2"/>
+   <linked-el length="21" name="%31" offset="477" path="%2"/>
+   <linked-el length="28" name="%32" offset="1001" path="%0"/>
+   <linked-el length="28" name="%32" offset="932" path="%5"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="msgs.dogWeight" value="%10"/>
+  <alias path="msgs.dogNameRequired" value="%9"/>
+  <alias
+   path="/CrudJSF/WebContent/pages/protected/admin/updateDog.xhtml" value="%0"/>
+  <alias path="userMB.user" value="%11"/>
+  <alias path="msgs.loginErrorMessage" value="%12"/>
+  <alias path="msgs.dogDeleteHeader" value="%14"/>
+  <alias path="msgs.dog" value="%16"/>
+  <alias path="/CrudJSF/src/com/mb/DogMB.java" value="%19"/>
+  <alias path="/CrudJSF/WebContent/pages/public/loginError.xhtml" value="%13"/>
+  <alias path="msgs.create" value="%21"/>
+  <alias path="msgs" value="%22"/>
+  <alias path="/CrudEJB/ejbModule/com/model/Dog.java" value="%24"/>
+  <alias
+   path="/CrudJSF/WebContent/pages/protected/admin/createDog.xhtml" value="%5"/>
+  <alias path="msgs.loginHello" value="%23"/>
+  <alias path="msgs.delete" value="%26"/>
+  <alias path="userMB.user.name" value="%28"/>
+  <alias path="userMB.userAdmin" value="%27"/>
+  <alias path="/pages/protected/admin/updateDog.xhtml" value="%7"/>
+  <alias
+   path="/CrudJSF/WebContent/pages/protected/user/listAllDogs.xhtml" value="%2"/>
+  <alias
+   path="/CrudJSF/WebContent/pages/protected/admin/deleteDog.xhtml" value="%3"/>
+  <alias path="msgs.cancel" value="%15"/>
+  <alias path="msgs.update" value="%17"/>
+  <alias path="msgs.logout" value="%18"/>
+  <alias path="msgs.dogName" value="%20"/>
+  <alias path="/pages/protected/admin/deleteDog.xhtml" value="%4"/>
+  <alias path="msgs.dogCreateHeader" value="%25"/>
+  <alias path="/pages/protected/admin/createDog.xhtml" value="%6"/>
+  <alias path="/CrudJSF/WebContent/WEB-INF/faces-config.xml" value="%1"/>
+  <alias path="dogMB" value="%30"/>
+  <alias path="msgs.dogUpdateHeader" value="%29"/>
+  <alias path="userMB" value="%31"/>
+  <alias path="msgs.dogWeightRequired" value="%32"/>
+  <alias path="/pages/protected/user/listAllDogs.xhtml" value="%8"/>
+ </aliases>
+</kb-project>
