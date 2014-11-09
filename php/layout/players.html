@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="">
+        <meta name="author" content="">
+
+        <title>GameBook</title>
+
+        <!-- Bootstrap core CSS -->
+        <link href="css/bootstrap.css" rel="stylesheet">
+
+        <!-- Add custom CSS here -->
+        <link href="css/style_admin.css" rel="stylesheet">
+        <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+    </head>
+
+    <body>
+        <div id="wrapper">
+            <!-- Navigation -->
+            <nav id="#header" class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+                <div class="container">
+                    <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="index.html"><img src="img/fav.png" width="15"/> GameBook</a>
+                    </div>
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                        <ul class="nav navbar-nav navbar-right navbar-user text-center profile" id="user">
+                            <li class="dropdown user-dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user"></i> Иван Пешев <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="profile.html"><i class="fa fa-user"></i> Профил</a></li>
+                                    <li><a href="#"><i class="fa fa-power-off"></i> Излез</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <ul class="nav navbar-nav navbar-right text-center">
+                            <li>
+                                <a href="players.html">Players</a>
+                            </li>
+                            <li>
+                                <a href="games.html">Games</a>
+                            </li>
+                            <li>
+                                <a href="clubs.html">Clubs</a>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <!-- /.navbar-collapse -->
+                </div>
+                <!-- /.container -->
+            </nav>
+        </div>
+
+        <div id="page-wrapper">
+
+            <div class="row">
+                <div class="col-lg-12 text-center"><br><br>
+                    <a href="index.html"><img src="img/players.png" class="logo" /></a><br>
+                    <!--<h1><small>Добре дошли в GameBook.</small></h1>-->
+                    <!-- <div class="alert alert-info alert-dismissable">
+                       <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+                                         Hi, my name is alert. You can close me any time you want.
+                    <!--Свободни места: <a class="alert-link" href="http://tablesorter.com/docs/"> 12</a><br>Резервирани места: <a class="alert-link" href="http://tablesorter.com/docs/"> 12</a>-->
+                    <!--</div>-->
+                </div>
+            </div><!-- /.row -->
+            <br><br>
+            
+            <div class="row">
+                <h2> Статистика:</h2>
+                <div class="col-lg-12">
+                    <div class="table-responsive">
+                        <table class="table table-bordered table-hover table-striped tablesorter">
+                            <thead>
+                                <tr>
+                                    <th class="text-center"><i class="fa fa-star yellow"></i>  Имена <i class="fa fa-sort"></i></th>
+									<th class="text-center"><i class="fa fa-trophy blue"></i>  Клуб <i class="fa fa-sort"></i></th>
+									<th class="text-center"><i class="fa fa-star yellow"></i>  Ранг <i class="fa fa-sort"></i></th>
+                                    <!--<th>Продължителност <i class="fa fa-sort"></i></th>-->
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td class="text-center"><img src="img/mega.png" valign="center" width="30"/>  Zombie_Slayer98 </td>
+									<td class="text-center">Gamers_from_Hell <i class="fa fa-trophy blue"></i> <i class="fa fa-trophy blue"></i> <i class="fa fa-trophy blue"></i></td>
+									<td class="text-center"><i class="fa fa-star yellow"></i> <i class="fa fa-star yellow"></i> <i class="fa fa-star yellow"></i>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div><!-- /.row --><br><br>
+            <div class="row">
+                <div class="col-md-2 col-sm-2 col-xs-2 left">
+                    <img src="img/yoda.png" class="img" />
+                </div>
+                <div class="col-md-2 col-sm-2 col-xs-2 col-md-offset-3 col-xs-offset-3">
+                    <img src="img/megaman.png" class="img" />
+                </div>
+                <div class="col-md-2 col-sm-2 col-xs-2 right">
+                    <img src="img/mario.png" class="img" />
+                </div>
+            </div>
+
+
+        </div><!-- /#page-wrapper --><br><br><br><br>
+        <footer>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 text-center">
+                        <p class="copyright text-muted small">Email за контакти: GameBook@gmail.com</p>
+                        <p class="copyright text-muted small">Copyright &copy; GameBook 2014. All Rights Reserved</p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+        <!-- JavaScript -->
+        <script src="js/jquery-1.10.2.js"></script>
+        <script src="js/bootstrap.js"></script>
+
+        <!-- Page Specific Plugins -->
+        <script src="js/tablesorter/jquery.tablesorter.js"></script>
+        <script src="js/tablesorter/tables.js"></script>
+
+    </body>
+</html>
